@@ -8,7 +8,7 @@ Welcome to the Mystery Number Game! Can you guess the hidden number?
 
 ## How to Play
 
-1. Open the game in your web browser.
+1. Open the game in your web browser webpage link:https://hari-hara7.github.io/Mystery-Number/.
 2. Enter your guess in the input field.
 3. Click the "Submit Guess" button.
 4. Receive feedback on your guess and continue until you guess the correct number.
